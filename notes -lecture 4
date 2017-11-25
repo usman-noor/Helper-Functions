@@ -1,0 +1,14 @@
+1-User call next on your iterator
+2-The iterator checks if there are more elements 
+  a-if there are more elements it returns the next element 
+  b-No more elements Raise StopIteration
+
+
+
+
+
+
+
+
+
+
