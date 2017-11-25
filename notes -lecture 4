@@ -3,7 +3,10 @@
   a-if there are more elements it returns the next element 
   b-No more elements Raise StopIteration
 
-
+class Foo:
+  def setAllWithKwArgs(self, **kwargs):
+    for key, value in kwargs.items():
+      setattr(self, key, value)
 
 
 
