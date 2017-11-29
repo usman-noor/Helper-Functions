@@ -1,0 +1,7 @@
+You got the order wrong. The if should be after the for (unless it is in an if-else ternary operator)
+
+[y for y in a if y not in b]
+This would work however:
+
+[y if y not in b else other_value for y in a]
+
