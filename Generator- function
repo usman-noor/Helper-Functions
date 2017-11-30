@@ -1,0 +1,15 @@
+def rmotr_range(start, end, step=1):
+    current = start
+    while current < end:
+        num = current
+        current += step
+        yield num
+
+
+
+gen = iter(rmotr_range(start=0, end=3))
+print(next(gen))
+print(next(gen))
+print(next(gen))
+print(next(gen))
+print(next(gen))
