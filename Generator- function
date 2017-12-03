@@ -13,3 +13,15 @@ print(next(gen))
 print(next(gen))
 print(next(gen))
 print(next(gen))
+
+
+def create_list(n):
+    current  = 0 
+    while current < n 
+    yield current 
+    current += 1
+    
+list(create_list(3))
+
+
+
