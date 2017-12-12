@@ -9,6 +9,7 @@ def p_decorate(func):
 
 get_name_tagged = p_decorate(get_name)  
 
+#calling func applies parameter to inner func wrapper final output comes from func wrapper
 print(get_name_tagged('john'))
 
 
