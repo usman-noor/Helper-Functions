@@ -1,3 +1,5 @@
+#https://www.youtube.com/watch?time_continue=53&v=FsAPt_9Bf3U
+
 from functools import wraps
 def raise_if_not_ints(*args):
     for arg in args:
