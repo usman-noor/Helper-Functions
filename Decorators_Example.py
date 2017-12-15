@@ -1,4 +1,8 @@
+#decorators tutorial
 #https://www.youtube.com/watch?time_continue=53&v=FsAPt_9Bf3U
+
+#decorators with timeout
+#https://stackoverflow.com/questions/2281850/timeout-function-if-it-takes-too-long-to-finish
 
 from functools import wraps
 def raise_if_not_ints(*args):
