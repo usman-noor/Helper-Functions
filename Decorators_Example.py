@@ -1,5 +1,10 @@
 #decorators tutorial
 #https://www.youtube.com/watch?time_continue=53&v=FsAPt_9Bf3U
+#Decorators tutorial with Arguments
+#https://www.youtube.com/watch?v=KlBPCzcQNU8
+#Decorators Tutorial 
+#https://www.thecodeship.com/patterns/guide-to-python-function-decorators/
+
 
 #decorators with timeout
 #https://stackoverflow.com/questions/2281850/timeout-function-if-it-takes-too-long-to-finish
