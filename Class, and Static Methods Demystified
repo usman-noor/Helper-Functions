@@ -1,2 +1,9 @@
 https://realpython.com/blog/python/instance-class-and-static-methods-demystified/
 https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3
+
+When no instance variable exists for a name, Python will lookup the value on the class. So the value retrieved for self.a will 
+be the class variable.
+
+But when setting an attribute via self, Python will always set an instance variable. So now self.a is a new instance variable 
+whose value is equal to the class variable + 1. This attribute shadows the class attribute, which you can no longer access via self 
+but only via the class.
