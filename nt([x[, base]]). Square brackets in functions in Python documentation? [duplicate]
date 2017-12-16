@@ -1,0 +1,9 @@
+#https://stackoverflow.com/questions/10053286/intx-base-square-brackets-in-functions-in-python-documentation
+
+Everything that is in square brackets is optional, i.e. you can omit it. If the square brackets contain more than 1 argument, you can't choose which ones to omit, you must either specify all of them, or none.
+That's where nested brackets come in handy:
+
+int([x[, base]])
+Here, for example, you can use int() without arguments (by omitting the whole outer bracket) or int(x) (by omitting the inner bracket) or int(x, base). But not int(base) (well, that would just mean int(x)).
+
+This isn't actual Python syntax, just a way for documentation to be clearer. Python 3's documentation tries to avoid these brackets.
