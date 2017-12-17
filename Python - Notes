@@ -4,5 +4,18 @@ raise - raise an exception.
 assert - raise an exception if a given condition is (or isn't) true.
 try - execute some code that might raise an exception, and if so, catch it.
 
+check Python name space 
+Employee.__dict__ # it will show the variables created in that namespace
+
+Class Variable : 
+https://www.youtube.com/watch?v=BJ-VvGyQxho
+The class variable can be accessed with class name or with self if the variable is not declared after init, if you use self and the variable is 
+changed in the declaration then it will only be changed for that instance
+
+Regular expression 
+
+
+
+
 
 
