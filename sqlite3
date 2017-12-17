@@ -1,0 +1,13 @@
+How to run a sql script 
+sqlite3 library_simple.db < schemas/simple-library.sql
+ll  (linux command will list all the directories)
+
+sqlite3 library_simple.db
+
+.tables (will show all the tables in the db)
+
+#see the table columns 
+.schema book
+
+.quit exit terminal 
+
