@@ -1,0 +1,26 @@
+#httpbin.org
+
+workon requests_test 
+
+ipython 
+
+import requests 
+
+resp = requests.get('http://httpbin.org/')
+
+resp 
+
+resp.ok 
+
+resp.headers
+
+pip freeze
+
+pip install requests
+
+from pprint import pprint 
+
+pprint(resp.json)
+
+resp = requests.get('https://api.github.com..../gists')
+
