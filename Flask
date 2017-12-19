@@ -1,0 +1,14 @@
+pip intall Flask 
+github.com/rmotr/flask_introduction
+
+#run FLAsk in Terminal 
+python run_app.py
+
+just runt the program it will fail and will give the URL 
+
+domain specific language : change static vales with Dynamic values 
+
+FLask includes Jinja
+
+
+
