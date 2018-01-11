@@ -71,5 +71,5 @@ pattern = re.compile(r'\bHA')
 pattern = re.compile(r'\bHA') 
 # it will match one HA with no word boundry at index 5 and 6 "HA HAHA" 
 
-'%[^0-9a-zA-Z,.-_()]%'   
+'%[^0-9a-zA-Z,.]%'   
 
