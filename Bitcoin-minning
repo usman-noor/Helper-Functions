@@ -1,1 +1,26 @@
 http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html
+the role of the miner is to build the blockchain of records that form the bitcoin ledger
+https://anders.com/blockchain/hash.html
+difficulty level requires us to have a hash that is smaller than what we have in the target. Target has atleast 4 leading zeros. 
+difficulty level is adjusted every two weeks so that the computer that are competing to mine should take total of 10 minutes to mine a new block 
+Computers are figuring out the required nonce to come up with the cryptographic has that is less than the required target
+blockchain.info
+blockexplorer.com
+https://twitter.com/BlockchainInfos
+https://www.facebook.com/BlockchainInstituteofTechnology
+https://blockchaininformer.com/
+https://www.bitsonline.com/keep-bitcoins-safe-2fa/
+https://www.bitsonline.com/bitcoin-wallet-ready-hard-fork-august/
+https://www.bitsonline.com/cold-storage-bitcoin-hard-fork/
+https://blockchaininformer.com/bitcoin/what-is-bitcoin/
+https://www.youtube.com/watch?v=4afOBjpRcDw&feature=youtu.be
+https://www.bitsonline.com/21-million-bitcoin/
+https://blockchair.com/bitcoin-cash/blocks
+https://blockdozer.com/insight/blocks
+https://www.bitcoincash.org/
+https://www.coindesk.com/walmart-blockchain-food-tracking-test-results-encouraging/
+http://news.blockchaininformer.com/#/
+https://www.youtube.com/GeorgeLevy
+https://anders.com/blockchain/blockchain.html
+https://anders.com/blockchain/hash.html
+https://bitsonline.com/money-mining-bitcoins/
