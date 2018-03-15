@@ -1,0 +1,5 @@
+1)find the installed directory of the program 
+C:\>where anaconda
+
+2)
+
